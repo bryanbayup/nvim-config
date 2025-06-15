@@ -37,4 +37,3 @@ Sebuah konfigurasi Neovim yang modern, cepat, dan penuh fitur, dirancang untuk p
 * **📝 Dukungan Markdown & Obsidian**
 * **🔬 Sains Data & Notebook**
 * **✅ Kualitas Kode Terjamin**
-* **✨ Git Terintegrasi**
