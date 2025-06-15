@@ -1,6 +1,6 @@
 # 🔮 Konfigurasi BBP Nvim
 
-Sebuah konfigurasi Neovim yang modern, cepat, dan penuh fitur, dirancang untuk pengembang perangkat lunak, penulisan teknis, dan *note-taking*. Dibangun dengan `lazy.nvim` untuk performa maksimal dan pengelolaan plugin yang mudah. Tema dan tampilan terinspirasi dari serial *Arcane*.
+Sebuah konfigurasi Neovim yang modern, cepat, dan penuh fitur, dirancang untuk pengembang perangkat lunak, penulisan teknis, dan *note-taking*. Dibangun dengan `lazy.nvim` untuk performa maksimal dan pengelolaan plugin yang mudah. Tema dan tampilan terinspirasi dari serial [*DataNvim*](https://github.com/NoOPeEKS/DataNvim).
 
 ```
           _____                    _____             _____                    _____                    _____                    _____             _____                            _____                    _____                   _______               _____                    _____                    _____          
